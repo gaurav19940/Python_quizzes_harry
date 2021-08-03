@@ -1,0 +1,3 @@
+this is fiirst line
+second line 
+last added line by double mode 
